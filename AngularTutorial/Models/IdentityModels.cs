@@ -27,12 +27,6 @@ namespace AngularTutorial.Models
         }
 
 
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            
-            Database.SetInitializer(new MigrateDatabaseToLatestVersion<ApplicationDbContext, Migrations.Configuration>());
-        }
-
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
