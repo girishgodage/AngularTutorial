@@ -76,4 +76,3 @@ c:\users\om godage\documents\visual studio 2015\Projects\AngularTutorial\Angular
 c:\users\om godage\documents\visual studio 2015\Projects\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.pdb
 c:\users\om godage\documents\visual studio 2015\Projects\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.Migrations.InitialCreate.resources
 c:\users\om godage\documents\visual studio 2015\Projects\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.csproj.GenerateResource.Cache
-C:\Users\Om Godage\documents\visual studio 2015\Projects\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.csprojResolveAssemblyReference.cache
